@@ -1,0 +1,10 @@
+# --- API Keys provided from Cybersteps Azure Subscription
+AZURE_OPENAI_ENDPOINT=
+AZURE_OPENAI_API_KEY=
+AZURE_OPENAI_DEPLOYMENT=gpt-4o
+
+
+# Pearson Lab Credentials
+TENANT_ID=
+CLIENT_ID=
+CLIENT_SECRET=
